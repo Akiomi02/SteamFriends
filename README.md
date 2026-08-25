@@ -16,8 +16,7 @@
 
 | Avatar                                                                            | Name                      | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
 |:----------------------------------------------------------------------------------|:--------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
-| ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS                 | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ❌           | 2022-08-14 01:06:38 |          | 2026-08-25 20:14:25 |
-| ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT                      | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ❌           | 2021-10-02 11:23:03 |          | 2026-08-25 20:14:25 |
+
 | ![](https://avatars.steamstatic.com/0fecf8a9c128a43a4f8e0e59425b069ee00bfb62.jpg) | 克里斯避税过多,威斯克一个大调查下去狠狠查     | [76561199560222561](https://steamcommunity.com/profiles/76561199560222561/) | ✅           | 2025-11-21 22:50:25 |          |                     |
 | ![](https://avatars.steamstatic.com/db1382126b55a2709386f99d0727732927d42cd2.jpg) | 萌新菜菜大佬带带                  | [76561199162490397](https://steamcommunity.com/profiles/76561199162490397/) | ✅           | 2025-07-27 12:28:55 |          |                     |
 | ![](https://avatars.steamstatic.com/0a98d89ecf6173422fa5844468a249cd2c98937d.jpg) | 高冷的粘人君                    | [76561198837763105](https://steamcommunity.com/profiles/76561198837763105/) | ✅           | 2025-11-24 01:48:47 |          |                     |
